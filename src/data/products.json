@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Tool",
+    "description": "Generate content instantly",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["SEO optimized", "Fast writing", "AI powered"],
+    "icon": "✍️"
+  },
+  {
+    "id": 2,
+    "name": "Design Resources Pack",
+    "description": "Premium UI kits",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best",
+    "features": ["Figma files", "Icons", "Templates"],
+    "icon": "🎨"
+  },
+  {
+    "id": 3,
+    "name": "Automation Toolkit",
+    "description": "Automate workflows",
+    "price": 19,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Zapier", "API", "Bots"],
+    "icon": "⚙️"
+  }
+]
